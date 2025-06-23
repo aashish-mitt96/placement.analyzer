@@ -10,7 +10,7 @@ This project explores a simple yet insightful ML-based classification model, aim
 
 - ✅ Predicts placement outcomes using **CGPA** and **IQ** as input.
 - 📈 Trained on a real dataset with labeled placement results.
-- 🧠 Uses a **machine learning classifier** (e.g., Logistic Regression).
+- 🧠 Uses a **machine learning classifier** (Logistic Regression).
 - 📊 Includes exploratory data analysis, training, and model evaluation.
 - ⚡ Built entirely in a Jupyter Notebook.
 
